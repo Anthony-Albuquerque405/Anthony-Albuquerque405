@@ -31,10 +31,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub:
+## 📊 Uso das Linguagens
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthony-Albuquerque405&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Albuquerque405&layout=compact&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anthony-Albuquerque405&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anthony-Albuquerque405&theme=radical" />
 </div>
 
 
