@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Tecnologias que uso no dia a dia:
-<div align="center">
+<div>
   <!-- Ícones -->
   <img align="center" alt="Anthony-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anthony-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
