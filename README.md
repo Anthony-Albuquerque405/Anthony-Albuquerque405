@@ -62,6 +62,24 @@
   <a href="https://discordapp.com/users/391613662760140802" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
+---
+
+## 📈 Estatísticas sociais:
+<div align="center">
+  <!-- Contador de visitas -->
+  <img src="https://komarev.com/ghpvc/?username=Anthony-Albuquerque405&color=blue&style=for-the-badge" alt="Visualizações de perfil" />
+  
+  <!-- Seguidores do GitHub -->
+  <a href="https://github.com/Anthony-Albuquerque405?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Anthony-Albuquerque405?label=Seguidores&style=for-the-badge&logo=github&color=green" alt="GitHub Followers" />
+  </a>
+
+  <!-- Estrelas dos repositórios -->
+  <a href="https://github.com/Anthony-Albuquerque405?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/Anthony-Albuquerque405?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
+  </a>
+</div>
+
 
 
 ---
