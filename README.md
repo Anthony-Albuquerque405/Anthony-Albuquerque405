@@ -6,9 +6,8 @@
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia:
+## 🚀 Tecnologias que uso no dia a dia
 <div>
-  <!-- Ícones -->
   <img align="center" alt="Anthony-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anthony-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Anthony-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +19,7 @@
 
 ---
 
-### 🛠️ Badges das Tecnologias:
+### 🛠️ Badges das Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -31,12 +30,11 @@
 
 ---
 
-## 📊 Uso das Linguagens
+## 📊 Estatísticas de Linguagens
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anthony-Albuquerque405&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anthony-Albuquerque405&theme=radical" />
 </div>
-
 
 ---
 
@@ -54,7 +52,7 @@
 
 ---
 
-## 📱 Conecte-se comigo:
+## 📱 Conecte-se comigo
 <div>
   <a href="https://www.instagram.com/anthonyhitmail/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:anthonyhitnailbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -64,31 +62,25 @@
 
 ---
 
-## 📈 Estatísticas sociais:
+## 📈 Estatísticas sociais
 <div align="center">
-  <!-- Contador de visitas -->
   <img src="https://komarev.com/ghpvc/?username=Anthony-Albuquerque405&color=blue&style=for-the-badge" alt="Visualizações de perfil" />
   
-  <!-- Seguidores do GitHub -->
   <a href="https://github.com/Anthony-Albuquerque405?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/Anthony-Albuquerque405?label=Seguidores&style=for-the-badge&logo=github&color=green" alt="GitHub Followers" />
   </a>
 
-  <!-- Estrelas dos repositórios -->
   <a href="https://github.com/Anthony-Albuquerque405?tab=repositories" target="_blank">
     <img src="https://img.shields.io/github/stars/Anthony-Albuquerque405?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
   </a>
 </div>
 
-
-
 ---
 
-## 🧠 Um pouco mais sobre mim:
-- Sempre buscando aprender novas tecnologias  
-- Apaixonado por inovação e desafios  
-- Gosto muito de esportes  
-- Explorando o mundo da tecnologia e telecom  
+## 🧠 Um pouco mais sobre mim
+- 🚀 Sempre buscando aprender novas tecnologias  
+- 💡 Apaixonado por inovação e desafios  
+- ⚽ Gosto muito de esportes  
+- 🌍 Explorando o mundo da tecnologia e telecom  
 
 ---
-
