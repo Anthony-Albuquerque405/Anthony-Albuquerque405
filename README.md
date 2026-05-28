@@ -45,13 +45,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anthony-Albuquerque405&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ## 📱 Conecte-se comigo
 <div>
   <a href="https://www.linkedin.com/in/anthony-albuquerque-97334034b/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
