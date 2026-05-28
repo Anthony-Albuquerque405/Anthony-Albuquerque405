@@ -70,6 +70,16 @@
 
 ---
 
+## 🌐 Meu Portfólio
+<div align="center">
+  <a href="https://seu-link-aqui.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Visite%20meu%20portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+</div>
+
+---
+
+
 ## 🧠 Um pouco mais sobre mim
 - 🚀 Sempre buscando aprender novas tecnologias  
 - 💡 Apaixonado por inovação e desafios  
